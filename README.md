@@ -24,6 +24,7 @@ Nginx is used to perform simple authentication in this case. You can find it at 
 
 ## Start training models
 
+Assuming there are 2 types of scenario:
  - In your own environment, For example: conda. Enter "mlflow file", type `python train.py`
  - Inside mlflow container, enter container through docker desktop or `docker exec -it [container ID] /bin/bash`. Enter "train" file, type `python train.py`.
  
