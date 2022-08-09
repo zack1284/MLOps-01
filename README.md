@@ -8,15 +8,15 @@ data source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=do
 
 ## MLflow Server
 
-You can find mlflow tracking server at `127.0.0.1:5000`
+You can access mlflow tracking server at `127.0.0.1:5000`
 
 ## Min IO 
 
-Min IO is used to store files that can be used to rebuild our models. You can find Min IO service at `127.0.0.1:9000`
+Min IO is used to store files that can be used to rebuild our models. You can access Min IO service at `127.0.0.1:9000`
 
 ## Nginx
 
-Nginx is used to perform simple authentication in this case. You can find it at `127.0.0.1`
+Nginx is used to perform simple authentication in this case. You can access it at `127.0.0.1`
 
 ## To start 
 
