@@ -36,3 +36,4 @@ You can access it at `127.0.0.1`
  - If you run into error "import boto 3 ". Run the following command in your enviroment `pip install boto3`
  - mlflow's function : `mlflow run [URI or Git repo] --no-conda` did not work well with docker. If conda.yml file is in the same directory with docker-compose.yml, it would report error. 
 - `sudo chmod -R 777 build.sh`
+- visual studio code install "docker extension" and "remote containers". The docker extension is important. 
