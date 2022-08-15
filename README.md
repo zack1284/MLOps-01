@@ -7,6 +7,8 @@
 
 ## Data source
 
+Download the creditcard.csv and put it inside "mlflow" folder.
+
 data source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
 ## To start 
