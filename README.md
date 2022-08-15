@@ -1,6 +1,9 @@
 # MLOps-01
 
 ## Introduction
+![Teams_SYwe3zNtoh](https://user-images.githubusercontent.com/90475308/184595553-01c9ec73-d888-44aa-a469-5055b5deb4e1.png)
+
+
 
 ## Data source
 
