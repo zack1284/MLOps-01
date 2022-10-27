@@ -67,3 +67,4 @@ You can access it at `127.0.0.1`
 - visual studio code install "docker extension" and "remote containers". The docker extension is important. 
 - change IP address in dockerfile or change it inside container's train.py. The ip address in train.py in container need to be IPV4 address, cannot use 127.0.0.1 or 0.0.0.0 or localhost, needs to be 192.xxx.xxx.xxx or 172.xxx.xxx.xxx
 - Remote containers might return NewConnectionError 113 on Mac when first time connecting. Close the remote connection and restart.
+- if cannot create bucket in MinIO automatically, then see the docker container's log. If it shows `/usr/bin/env: ‘bash\r’: No such file or directory` then `git config --global core.autocrlf false` to solve the problem.
